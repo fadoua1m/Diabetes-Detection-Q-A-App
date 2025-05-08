@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+transformers
+sentence-transformers
+faiss-cpu
+torch 
+huggingface-hub
