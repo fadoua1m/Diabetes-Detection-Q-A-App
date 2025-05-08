@@ -1,4 +1,4 @@
-# 🧪 Diabetes Detection & Q&A App
+#  Diabetes Detection & Q&A App
 
 This project is a machine learning and NLP-powered web application built with **Streamlit**. It provides two main functionalities:
 
